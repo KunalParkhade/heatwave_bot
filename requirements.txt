@@ -1,0 +1,7 @@
+flask
+requests
+spacy
+googlemaps
+openai
+pytest
+scikit-learn

@@ -1,0 +1,19 @@
+{
+    "intents": {
+      "Safety Tips": [
+        "What are safety tips for heatwaves?",
+        "How to stay safe during a heatwave?",
+        "Can you give me some precautions for heat?"
+      ],
+      "Symptoms": [
+        "What are the symptoms of heatstroke?",
+        "How to identify heat-related illnesses?",
+        "Signs of heatstroke?"
+      ],
+      "Cooling Shelters": [
+        "Where can I find cooling shelters?",
+        "Are there relief centers nearby?",
+        "Shelter locations for heatwave?"
+      ]
+    }
+  }  
